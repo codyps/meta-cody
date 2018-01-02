@@ -1,6 +1,6 @@
 SUMMARY = "A file-based build system"
 LICENSE = "GPLv2"
-LIC_FILES_CHKSUM = "file://COPYING;md5=xxxx"
+LIC_FILES_CHKSUM = "file://COPYING;md5=b234ee4d69f5fce4486a80fdaf4a4263"
 
 DEPENDS = "fuse"
 SRC_URI[md5sum] = "fc249684928a8db118c8ba54d71a5d8d"
